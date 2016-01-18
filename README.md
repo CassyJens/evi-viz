@@ -1,4 +1,4 @@
-NEWAPP
+Evi-viz
 ========
 
 ## Dependencies

@@ -1,6 +1,6 @@
 {
-  "name": "NEWAPP",
-  "description": "NEWAPPDESCRIPTION",
+  "name": "Evi-viz",
+  "description": "A web-based visualization tool for timeline dependencies.",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
